@@ -3,10 +3,8 @@
 <div align="center">
   
 [![newbanner](https://github.com/pxcs/pxcs/assets/151133481/320b96fe-db3e-4f02-9379-8713e2e36f6c)](https://www.wired.com/story/cybersecurity-marginalized-communities-problem/)
-
 <h4 align="center">
 <details>
-
 <summary><h4> 🦈 Gangsta Crew </h4></summary>
 <details>
 <summary><h4> ⛏️ Dev </h4></summary>
@@ -40,6 +38,6 @@ Bismillah!
 
 <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" /> </h1>
-</div><br><br><hr>
+</div><br><hr>
 
 [![test-min](https://github.com/pxcs/pxcs/assets/151133481/a7ae00bf-d150-48c1-b5b0-f3db0bab0012)](github.com/pxcs)
