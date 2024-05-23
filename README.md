@@ -1,3 +1,24 @@
+<div align="center">
+  
+[![newbanner](https://github.com/pxcs/pxcs/assets/151133481/320b96fe-db3e-4f02-9379-8713e2e36f6c)](https://www.wired.com/story/cybersecurity-marginalized-communities-problem/)
+
+<h4 align="center"><br>
+
+<details>
+
+<summary><h4> 🦈 Gangsta Crew </h4></summary>
+<details>
+<summary><h4> ⛏️ Dev </h4></summary>
+      
+[![brute-forcing](https://github.com/pxcs/pxcs/assets/151133481/2ed5cd9b-78b0-4106-93a5-8ae0e5ef516a)](https://github.com/pxcs/WannaCry2.0)
+
+[![kerberos](https://github.com/pxcs/pxcs/assets/151133481/317ea1b3-2e6d-4903-ae40-7c5219b46af0)](https:/github.com/pxcs/KerberossianCracker)
+
+[![test3](https://github.com/pxcs/pxcs/assets/151133481/75e71c9e-b60d-405c-a30a-3ade8c820a6b)](https://doubleoctopus.com/security-wiki/threats-and-tools/https-spoofing/)
+</details>
+</div>
+<hr>
+
 # 💫 About Me:
 Bismillah! 
 
